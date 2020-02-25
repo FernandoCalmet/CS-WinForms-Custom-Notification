@@ -1,0 +1,12 @@
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\bin\Debug\CustomNotificationForm.exe.config
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\bin\Debug\CustomNotificationForm.exe
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\bin\Debug\CustomNotificationForm.pdb
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\Debug\CustomNotificationForm.csprojAssemblyReference.cache
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\Debug\CustomNotificationForm.Form_Alert.resources
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\Debug\CustomNotificationForm.Properties.Resources.resources
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\Debug\CustomNotificationForm.csproj.GenerateResource.cache
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\Debug\CustomNotificationForm.csproj.CopyComplete
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\Debug\CustomNotificationForm.exe
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\Debug\CustomNotificationForm.pdb
+C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\Debug\CustomNotificationForm.Form_Buttons.resources
