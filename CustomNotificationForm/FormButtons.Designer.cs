@@ -1,6 +1,6 @@
 ﻿namespace CustomNotificationForm
 {
-    partial class Form_Buttons
+    partial class FormButtons
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -90,17 +90,18 @@
             this.buttonInfo.UseVisualStyleBackColor = false;
             this.buttonInfo.Click += new System.EventHandler(this.buttonInfo_Click);
             // 
-            // Form_Buttons
+            // FormButtons
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.BackColor = System.Drawing.Color.Black;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(36)))), ((int)(((byte)(36)))));
             this.ClientSize = new System.Drawing.Size(601, 361);
             this.Controls.Add(this.buttonInfo);
             this.Controls.Add(this.buttonError);
             this.Controls.Add(this.buttonWarning);
             this.Controls.Add(this.btnSuccess);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Name = "Form_Buttons";
+            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(36)))), ((int)(((byte)(36)))));
+            this.Name = "FormButtons";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "github.com/fernandocalmet";
             this.ResumeLayout(false);
