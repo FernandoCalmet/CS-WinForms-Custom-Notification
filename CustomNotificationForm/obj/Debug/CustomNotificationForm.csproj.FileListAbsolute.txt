@@ -10,3 +10,16 @@ C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\De
 C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\Debug\CustomNotificationForm.exe
 C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\Debug\CustomNotificationForm.pdb
 C:\Users\ferca\source\repos\CustomNotificationForm\CustomNotificationForm\obj\Debug\CustomNotificationForm.Form_Buttons.resources
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\bin\Debug\CustomNotificationForm.exe.config
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\bin\Debug\CustomNotificationForm.exe
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\bin\Debug\CustomNotificationForm.pdb
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\bin\Debug\FontAwesome.Sharp.dll
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\obj\Debug\CustomNotificationForm.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\obj\Debug\CustomNotificationForm.FormButtons.resources
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\obj\Debug\CustomNotificationForm.Form_Alert.resources
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\obj\Debug\CustomNotificationForm.Properties.Resources.resources
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\obj\Debug\CustomNotificationForm.csproj.GenerateResource.cache
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\obj\Debug\CustomNotificationForm.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\obj\Debug\CustomNotificationForm.csproj.CopyComplete
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\obj\Debug\CustomNotificationForm.exe
+D:\Github\FernandoCalmet\Custom-Notification-WinFormsCS\CustomNotificationForm\obj\Debug\CustomNotificationForm.pdb

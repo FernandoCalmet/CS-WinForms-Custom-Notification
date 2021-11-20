@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "933d6781-aff3-4485-b411-40d77504fd7a": {
+      "ProjectGuid": "933d6781-aff3-4485-b411-40d77504fd7a",
+      "DisplayName": "CustomNotificationForm",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

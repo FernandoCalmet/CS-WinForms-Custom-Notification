@@ -49,11 +49,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form_Buttons.cs">
+    <Compile Include="Common\NotificationAction.cs" />
+    <Compile Include="Common\NotificationType.cs" />
+    <Compile Include="FormButtons.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_Buttons.Designer.cs">
-      <DependentUpon>Form_Buttons.cs</DependentUpon>
+    <Compile Include="FormButtons.Designer.cs">
+      <DependentUpon>FormButtons.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Alert.cs">
       <SubType>Form</SubType>
@@ -63,8 +65,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form_Buttons.resx">
-      <DependentUpon>Form_Buttons.cs</DependentUpon>
+    <EmbeddedResource Include="FormButtons.resx">
+      <DependentUpon>FormButtons.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Alert.resx">
       <DependentUpon>Form_Alert.cs</DependentUpon>
@@ -92,5 +94,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
