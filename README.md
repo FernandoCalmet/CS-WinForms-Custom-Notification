@@ -22,7 +22,7 @@ Este proyecto es una muestra de como se generan notificaciones coloridas persona
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/NET-Framework-4-WinForms-Custom-Notification
+gh repo clone FernandoCalmet/net-framework-4-winforms-custom-notification
 ```
 
 Ejecutar aplicación.
